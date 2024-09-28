@@ -1,7 +1,7 @@
 <h1 align="center">Howdy! I'm Moeka 👋</h1>
 
 <p align="left">
-I'm a 4th-year Ecology Ph.D. student at Texas A&M University with a focus on forest ecology, data analytics, project management, and soil science. By using my research experience and data analysis skills, I am interested in pursuing a career as a data analyst/scientist, solving problems related to the environment, sustainability, and agriculture after completing the degree. 
+I'm a Ecology Ph.D. student at Texas A&M University with a focus on forest carbon cycling and allocation, soil carbon dynamics, and soil respiration. By using my research experience and data analysis skills, I am interested in pursuing a career as a data analyst/scientist, solving problems related to the environment, sustainability, and agriculture after completing the degree. 
 </p>
 
 
