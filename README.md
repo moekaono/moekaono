@@ -1,7 +1,7 @@
 <h1 align="center">Howdy! I'm Moeka 👋</h1>
 
 <p align="left">
-I hold a PhD in Ecology and Conservation Biology from Texas A&M University with a focus on forest carbon cycling and allocation, soil carbon dynamics, and soil respiration. By using my research experience and data analysis skills, I am interested in pursuing a career as a researcher or data analyst/scientist, solving problems related to the environment, sustainability, and agriculture after completing the degree. 
+I hold a PhD in Ecology and Conservation Biology from Texas A&M University with a focus on forest carbon cycling and allocation, soil carbon dynamics, and soil respiration. By using my research experience and data analysis skills, I am interested in pursuing a career as a researcher or data analyst/scientist, solving problems related to the environment, sustainability, and agriculture.
 </p>
 
 
